@@ -3,8 +3,7 @@ Sobek is a program used for hydrological calculations
 
 This Python script is designed to extract the water levels of a specified calculation point from a Sobek HIS-file. The output is exported to a .csv file and visualized through a plot.
 Sobek is program made by Deltares and used by Hydrologists.
-
-![Example Image](.1184.png)
+![alt text](https://github.com/HulsterHydrology/Export-data-of-one-calculation-point-from-Sobek/blob/main/1184.png)
 
 Prerequisites
 To run this script, you need to have Python 3 installed on your system. The script also depends on several packages, which can be installed via pip.
